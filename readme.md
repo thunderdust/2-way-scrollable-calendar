@@ -12,7 +12,7 @@ Used javascript debounce and throttle to reduce performance decrease caused by f
 
 ## Demo 
 
-http://thunderdust.github.io/2-way-scrollable-calendar
+http://thunderdust.github.io/front-end-creations/2-way-scrollable-calendar
 
 ## Contributors
 
